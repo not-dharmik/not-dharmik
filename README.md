@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @not-dharmik
 - 👀 I’m interested in Web-Dev , Designing (Ps,Ai)
 - 🌱 I’m currently learning Backend Dev
-- 💞️ I’m looking to collaborate on Projects Based on the above skills!!
+- 💞️ I’m looking forward to collaborate on Projects Based on the above skills!!
 - 📫 You Connect with me on Linkedin (Dharmik Naicker) or Mail: dharmik4manish@gmail.com
 
 <!---
