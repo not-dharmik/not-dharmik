@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Web-Dev , Designing (Ps,Ai)
 - 🌱 I’m currently learning Backend Dev
 - 💞️ I’m looking forward to collaborate on Projects Based on the above skills!!
-- 📫 You can Connect with me on Linkedin (Dharmik Naicker) or Mail: dharmik4manish@gmail.com
+- 📫 You can Connect with me on Linkedin ([Dharmik Naicker](https://www.linkedin.com/in/dharmiknaicker/)) or Mail: dharmik4manish@gmail.com
 
 <!---
 not-dharmik/not-dharmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
