@@ -2,7 +2,7 @@
 
 🎓 Master of Data Science @ UCI
 
-💼 Aspiring Data Analyst | Web Development Enthusiast
+💼 Aspiring Data Analyst 
 
 📊 Proficient in Python, Power BI, SQL, Machine Learning
 
