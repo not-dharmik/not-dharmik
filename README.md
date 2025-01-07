@@ -1,8 +1,6 @@
 👋 Hi, I’m @dharmik
 
-🎓 Master of Data Science @ UCI
-
-💼 Aspiring Data Analyst 
+🎓 Currently pursuing Master of Data Science @ UCI
 
 📊 Proficient in Python, Power BI, SQL, Machine Learning
 
@@ -14,7 +12,7 @@
 
 💞️ I’m looking forward to collaborating on Projects Based on the above skills!!
 
-📫 You can Connect with me on Linkedin ([Dharmik Naicker](https://www.linkedin.com/in/dharmiknaicker/)) or Mail: dharmik4manish@gmail.com
+📫 You can Connect with me on Linkedin ([Dharmik Naicker](https://www.linkedin.com/in/dharmiknaicker/)) or Mail: dnaicker@uci.edu
 
 <!---
 not-dharmik/not-dharmik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
