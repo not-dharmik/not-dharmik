@@ -4,7 +4,7 @@
 
 📊 Proficient in Python, Power BI, SQL, Machine Learning
 
-🖥️ Passionate about creating data-driven solutions and intuitive web designs
+🖥️ Passionate about solving problems through data and intuitive web designs
 
 🔍 Seeking Summer Internship in Data Analytics | Open to Collaborations
 
